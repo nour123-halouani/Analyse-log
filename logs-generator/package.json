@@ -1,0 +1,21 @@
+{
+  "name": "logs-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "faker": "^6.6.6",
+    "kafka-node": "^5.0.0",
+    "mongodb": "^6.6.2",
+    "socket.io": "^4.7.5"
+  }
+}
